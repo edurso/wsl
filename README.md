@@ -2,6 +2,8 @@
 
 contains some wsl notes and things
 
+see [my dotfiles](https://github.com/edurso/dotfiles) for, you know, my dotfiles
+
 ## init system (PID 1)
 
 ```bash
