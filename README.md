@@ -4,6 +4,8 @@ contains some wsl notes and things
 
 see [my dotfiles](https://github.com/edurso/dotfiles) for, you know, my dotfiles
 
+reference [this](https://stackoverflow.com/questions/64137459/how-can-i-install-wsl2-on-an-external-ssd) for use with external drive
+
 ## init system (PID 1)
 
 ```bash
